@@ -19,3 +19,13 @@ Ter um Virtual Environment criado para o projeto;
 Ter um sistema de alerta.
 
 Etapas realizadas:
+Foi importados bibliotecas
+extração de 3 API
+Criação de banco de dados
+Criação de DataFrame
+Criação se sitema de alerta
+Tratamento de dados do DataFrame para remosver celulas com informações nulas
+
+Três APIs para fazer ações diferentes, a primeira resgata informações de bancos, essa foi tratada para remover linhas que continham informações nulas.
+Segunda API resgata informações relacionadas a um DDD que for especificado em variavél.
+Terceira API resgata dados de um CEP pré determinado em variável.
